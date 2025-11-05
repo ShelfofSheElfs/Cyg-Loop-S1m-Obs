@@ -1,6 +1,6 @@
 # Submeter Observations of the Cygnus Loop
 
-## Project ABstract
+## Project Abstract
 The goal of this project is to study the most prominent regions of the Cygnus Loop using submeter-scale aperture telescopes, primarily utilizing remote observatory tasking and with support by open-source FITS files.
 
 ## Open-Source vs Tasked FITS
